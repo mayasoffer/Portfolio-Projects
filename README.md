@@ -1,5 +1,5 @@
 # Portfolio-Projects
-## This Portfolio Consists of 3 Projects:  
+## This portfolio consists of 3 projects:  
 1. [**Web-scraping Movies data project**](https://github.com/mayasoffer/Portfolio-Projects/blob/main/Movies%20data%20scraping%20project.ipynb) - Python 3:  
 In this project, my goal was to scrape data about movies from ["The-numbers"](https://www.the-numbers.com/) website.  
 The project is composed of a few key steps:  
